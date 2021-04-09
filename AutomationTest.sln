@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create community from the Communities menu items with", "Create community from the Communities menu items with.csproj", "{933BC2AE-94D6-4E7C-8037-22EB71817ADB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateAnAccountAsNewUser", "..\CreateAnAccountAsNewUser\CreateAnAccountAsNewUser.csproj", "{58E9CF45-612C-4999-AB5B-34B694484479}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignInAsRegisteredUser", "..\SignInAsRegisteredUser\SignInAsRegisteredUser.csproj", "{3FB77DFA-E6FD-4792-B40F-A6E2B5B16518}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegisterFromDiscoverCommunitiesButton", "..\RegisterFromDiscoverCommunitiesButton\RegisterFromDiscoverCommunitiesButton.csproj", "{C0CA6AF3-92E9-48E1-9EF2-47CE20C924C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignInFromDiscoverCommunitiesButton", "..\SignInFromDiscoverCommunitiesButton\SignInFromDiscoverCommunitiesButton.csproj", "{6DEF7635-6128-4F32-A5DE-29EF91378250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933BC2AE-94D6-4E7C-8037-22EB71817ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933BC2AE-94D6-4E7C-8037-22EB71817ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933BC2AE-94D6-4E7C-8037-22EB71817ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933BC2AE-94D6-4E7C-8037-22EB71817ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E9CF45-612C-4999-AB5B-34B694484479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E9CF45-612C-4999-AB5B-34B694484479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E9CF45-612C-4999-AB5B-34B694484479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E9CF45-612C-4999-AB5B-34B694484479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB77DFA-E6FD-4792-B40F-A6E2B5B16518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB77DFA-E6FD-4792-B40F-A6E2B5B16518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB77DFA-E6FD-4792-B40F-A6E2B5B16518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB77DFA-E6FD-4792-B40F-A6E2B5B16518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CA6AF3-92E9-48E1-9EF2-47CE20C924C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CA6AF3-92E9-48E1-9EF2-47CE20C924C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CA6AF3-92E9-48E1-9EF2-47CE20C924C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CA6AF3-92E9-48E1-9EF2-47CE20C924C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEF7635-6128-4F32-A5DE-29EF91378250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEF7635-6128-4F32-A5DE-29EF91378250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEF7635-6128-4F32-A5DE-29EF91378250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEF7635-6128-4F32-A5DE-29EF91378250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9E25F8-A69B-40ED-962C-DC3E8C13DB4B}
+	EndGlobalSection
+EndGlobal
